@@ -22,7 +22,7 @@
   font-size: 20px;
   padding-left: 10px;
   margin-bottom: 10px;
-  border-radius: 5px;
+  border-radius: 25px;
 }
 
 .login > form > button {
@@ -30,15 +30,16 @@
   height: 50px;
   font-size: large;
   color: #fff;
-  background-color: #0074b1;
-  border-radius: 5px;
+  background-color: #393E46;
+  border-radius: 25px;
 }
 
 .login__register {
-  color: #0177b7;
+  color: #D4ECDD;
   cursor: pointer;
 }
 
 .login > p {
   margin-top: 20px;
+  color: whitesmoke;
 }

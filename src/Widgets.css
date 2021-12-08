@@ -2,7 +2,7 @@
   position: sticky;
   top: 80px;
   flex: 0.2;
-  background-color: #fff;
+  background-color: #393E46;
   border-radius: 10px;
   border: 1px solid lightgrey;
   height: fit-content;
@@ -28,7 +28,7 @@
 }
 
 .widgets__article:hover {
-  background-color: whitesmoke;
+  background-color: #EEEEEE;
 }
 
 .widgets__articleLeft {
@@ -50,5 +50,5 @@
 
 .widgets__articleRight > p {
   font-size: 12px;
-  color: gray;
+  color: whitesmoke;
 }
