@@ -17,6 +17,7 @@
 }
 
 .widgets__header > h2 {
+  color:white;
   font-size: 16px;
   font-size: 400;
 }
@@ -28,7 +29,7 @@
 }
 
 .widgets__article:hover {
-  background-color: #EEEEEE;
+  background-color: #363636;
 }
 
 .widgets__articleLeft {
@@ -45,6 +46,7 @@
 }
 
 .widgets__articleRight > h4 {
+  color: #fff;
   font-size: 14px;
 }
 

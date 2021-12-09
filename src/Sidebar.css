@@ -25,11 +25,12 @@
 }
 
 .sidebar__top > h4 {
-  color: gray;
+  color: whitesmoke;
   font-size: 12px;
 }
 
 .sidebar__top > h2 {
+  color: whitesmoke;
   font-size: 18px;
 }
 
@@ -96,6 +97,7 @@
 }
 
 .sidebar__bottom > p {
+  color: white;
   font-size: 13px;
   padding-bottom: 10px;
 }
