@@ -12,20 +12,24 @@
 }
 
 .feed__input {
+  
   border: 1px solid whitesmoke;
   border-radius: 30px;
   display: flex;
   padding: 10px;
   color: whitesmoke;
   padding-left: 15px;
+  background: none;
 }
 
 .feed__input > form {
+  
   display: flex;
   width: 100%;
 }
 
 .feed__input > form > input {
+
   border: none;
   flex: 1;
   margin-left: 10px;

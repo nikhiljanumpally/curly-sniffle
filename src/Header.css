@@ -15,7 +15,7 @@
 }
 
 .header__left > img {
-  object-fit: contain;
+  object-fit:contain;
   height: 40px;
   margin-right: 10px;
 }
@@ -24,7 +24,7 @@
   padding: 10px;
   display: flex;
   align-items: center;
-  border-radius: 15px;
+  border-radius: 25px;
   height: 22px;
   width: 100%;
   color: gray;

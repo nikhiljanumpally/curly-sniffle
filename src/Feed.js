@@ -55,6 +55,8 @@ const Feed = () => {
               type="text"
               value={input}
               onChange={(e) => setInput(e.target.value)}
+              STYLE="background-color: #454545;outline:none"
+
             />
             <button onClick={sendPost} type="submit">
               Send

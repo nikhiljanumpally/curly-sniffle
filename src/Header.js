@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header__left">
-        <img src="src/icon.png" alt="artis Logo"
+        <img src="../src/images/1919.svg" alt="Logo"
         />
 
         <div className="header__search">
